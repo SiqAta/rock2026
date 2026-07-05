@@ -96,94 +96,100 @@ const kuopioRockData = [
     "esiintymiset": [
       // Väinö Stage
       {
-        "artisti": "Jatkoroikka666",
+        "artisti": "Mummopunk",
         "lava": "Väinö Stage",
         "aika_alku": "16:00",
-        "aika_loppu": "17:00"
+        "aika_loppu": "16:30"
       },
       {
-        "artisti": "HaloShade",
+        "artisti": "Avohaava",
         "lava": "Väinö Stage",
-        "aika_alku": "17:15",
-        "aika_loppu": "18:15"
+        "aika_alku": "16:55",
+        "aika_loppu": "17:40"
       },
       {
-        "artisti": "Violet Garden",
+        "artisti": "Southern Cross",
         "lava": "Väinö Stage",
-        "aika_alku": "18:30",
-        "aika_loppu": "19:15"
+        "aika_alku": "18:05",
+        "aika_loppu": "18:50"
+      },
+      {
+        "artisti": "Woundstripe",
+        "lava": "Väinö Stage",
+        "aika_alku": "19:15",
+        "aika_loppu": "20:00"
       },
       {
         "artisti": "SKYB – ysäriltä ja takaisin",
         "lava": "Väinö Stage",
-        "aika_alku": "19:30",
-        "aika_loppu": "20:45"
+        "aika_alku": "20:00",
+        "aika_loppu": "00:00"
       },
 
       // Stadion lava 1
       {
-        "artisti": "Mariska",
+        "artisti": "Hokka",
         "lava": "Stadion lava I",
-        "aika_alku": "16:20",
-        "aika_loppu": "17:20"
+        "aika_alku": "16:00",
+        "aika_loppu": "16:45"
       },
       {
-        "artisti": "Ismo Alanko",
+        "artisti": "Tarot",
         "lava": "Stadion lava I",
-        "aika_alku": "18:45",
-        "aika_loppu": "19:45"
+        "aika_alku": "18:00",
+        "aika_loppu": "19:00"
       },
       {
-        "artisti": "Battle Beast",
+        "artisti": "Turmion Kätilöt",
         "lava": "Stadion lava I",
-        "aika_alku": "21:15",
-        "aika_loppu": "22:15"
+        "aika_alku": "20:30",
+        "aika_loppu": "21:30"
       },
       {
-        "artisti": "Turmion Kätilöt feat. Kuopion Kaupunginorkesteri",
+        "artisti": "Wasp",
         "lava": "Stadion lava I",
-        "aika_alku": "23:45",
-        "aika_loppu": "01:15"  // 1.5 tuntia, viimeinen lava 1 esiintyjä
+        "aika_alku": "23:00",
+        "aika_loppu": "00:00"  // 1.5 tuntia, viimeinen lava 1 esiintyjä
       },
 
       // Stadion lava II
       {
-        "artisti": "Cemetery Skyline",
+        "artisti": "Viivi",
         "lava": "Stadion lava II",
-        "aika_alku": "17:30",
-        "aika_loppu": "18:30"
+        "aika_alku": "17:00",
+        "aika_loppu": "17:45"
       },
       {
-        "artisti": "Kaija Koo",
+        "artisti": "Maija Vilkkumaa",
         "lava": "Stadion lava II",
-        "aika_alku": "20:00",
-        "aika_loppu": "21:00"
+        "aika_alku": "19:15",
+        "aika_loppu": "20:15"
       },
       {
-        "artisti": "The Hellacopters",
+        "artisti": "Lordi",
         "lava": "Stadion lava II",
-        "aika_alku": "22:30",
-        "aika_loppu": "23:30"
+        "aika_alku": "21:45",
+        "aika_loppu": "22:45"
       },
 
       // Savonia Stage
       {
-        "artisti": "Conjur",
+        "artisti": "Aliisa Syrjä",
         "lava": "Savonia Stage",
-        "aika_alku": "17:50",
-        "aika_loppu": "18:50"
+        "aika_alku": "16:15",
+        "aika_loppu": "17:00"
       },
       {
-        "artisti": "Lähiöbotox",
+        "artisti": "Nyrkkitappelu",
         "lava": "Savonia Stage",
-        "aika_alku": "20:10",
-        "aika_loppu": "21:10"
+        "aika_alku": "18:30",
+        "aika_loppu": "19:30"
       },
       {
-        "artisti": "Project Silence",
+        "artisti": "Dingo",
         "lava": "Savonia Stage",
-        "aika_alku": "22:10",
-        "aika_loppu": "23:10"
+        "aika_alku": "21:15",
+        "aika_loppu": "22:15"
       }
     ]
   },
@@ -193,71 +199,71 @@ const kuopioRockData = [
     "esiintymiset": [
       // Väinö Stage
       {
-        "artisti": "Destiny Inveiled",
+        "artisti": "Kantor",
         "lava": "Väinö Stage",
-        "aika_alku": "14:30",
-        "aika_loppu": "15:30"
+        "aika_alku": "16:30",
+        "aika_loppu": "17:15"
       },
       {
-        "artisti": "SPIT",
+        "artisti": "Terromania",
         "lava": "Väinö Stage",
-        "aika_alku": "16:15",
-        "aika_loppu": "17:15"
+        "aika_alku": "17:40",
+        "aika_loppu": "18:25"
       },
       {
         "artisti": "Licuation",
         "lava": "Väinö Stage",
-        "aika_alku": "18:15",
-        "aika_loppu": "19:15"
+        "aika_alku": "18:50",
+        "aika_loppu": "19:35"
       },
       {
         "artisti": "SKYB – ysäriltä ja takaisin",
         "lava": "Väinö Stage",
-        "aika_alku": "19:30",
-        "aika_loppu": "20:30"
+        "aika_alku": "20:00",
+        "aika_loppu": "00:00"
       },
     
       // Stadion lava 1
       {
-        "artisti": "Demolition 23",
+        "artisti": "Charon",
         "lava": "Stadion lava I",
-        "aika_alku": "15:50",
-        "aika_loppu": "16:50"
+        "aika_alku": "16:00",
+        "aika_loppu": "17:00"
       },
       {
-        "artisti": "Vesterinen Yhtyeineen",
+        "artisti": "Klamydia",
         "lava": "Stadion lava I",
-        "aika_alku": "18:15",
-        "aika_loppu": "19:15"
+        "aika_alku": "18:30",
+        "aika_loppu": "19:30"
       },
       {
-        "artisti": "Floor Jansen",
+        "artisti": "Happoradio",
         "lava": "Stadion lava I",
-        "aika_alku": "20:45",
-        "aika_loppu": "21:45"
+        "aika_alku": "21:00",
+        "aika_loppu": "22:00"
       },
       {
-        "artisti": "Haloo Helsinki!",
+        "artisti": "Eppu Normaali",
         "lava": "Stadion lava I",
-        "aika_alku": "23:45",
-        "aika_loppu": "01:15"  // 1.5 tuntia viimeinen lava 1 esiintyjä
+        "aika_alku": "23:30",
+        "aika_loppu": "01:00"  // 1.5 tuntia viimeinen lava 1 esiintyjä
       },
 
       // Stadion lava II
       {
-        "artisti": "The 69 Eyes",
+        "artisti": "Neljä Ruusua",
         "lava": "Stadion lava II",
-        "aika_alku": "17:00",
-        "aika_loppu": "18:00"
+        "aika_alku": "17:15",
+        "aika_loppu": "18:15"
       },
       {
-        "artisti": "Marko Hietala",
+        "artisti": "Käärijä",
         "lava": "Stadion lava II",
-        "aika_alku": "19:30",
-        "aika_loppu": "20:30"
+        "aika_alku": "19:45",
+        "aika_loppu": "20:45"
       },
       {
-        "artisti": "D-A-D",
+        "artisti": "Negativa",
         "lava": "Stadion lava II",
         "aika_alku": "22:15",
         "aika_loppu": "23:15"
@@ -265,22 +271,16 @@ const kuopioRockData = [
 
       // Savonia Stage
       {
-        "artisti": "Technicolour",
+        "artisti": "Savo",
         "lava": "Savonia Stage",
-        "aika_alku": "15:15",
-        "aika_loppu": "16:15"
+        "aika_alku": "16:00",
+        "aika_loppu": "17:00"
       },
       {
-        "artisti": "Rosy Dream",
+        "artisti": "Mira Luoti",
         "lava": "Savonia Stage",
-        "aika_alku": "17:15",
-        "aika_loppu": "18:15"
-      },
-      {
-        "artisti": "Deathchain",
-        "lava": "Savonia Stage",
-        "aika_alku": "19:15",
-        "aika_loppu": "20:15"
+        "aika_alku": "18:45",
+        "aika_loppu": "19:45"
       },
       {
         "artisti": "Atomirotta",
