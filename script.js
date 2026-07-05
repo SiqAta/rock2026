@@ -10,8 +10,8 @@ for (let m = START_MINUTES; m <= END_MINUTES; m += SLOT_MINUTES) {
 }
 
 const stageOrder = [
-    "Kuopio250 Stage",
-    "Matkus Stage",
+    "Stadion lava I",
+    "Stadion lava II",
     "Savonia Stage",
     "Väinö Stage"
 ];
