@@ -1,7 +1,7 @@
 const kuopioRockData = [
   {
     "paiva": "Torstai",
-    "paivamaara": "2025-07-24",
+    "paivamaara": "2025-07-23",
     "esiintymiset": [
       // Kuopio250 Stage (Stadion lava 1)
       {
@@ -92,7 +92,7 @@ const kuopioRockData = [
   },
   {
     "paiva": "Perjantai",
-    "paivamaara": "2025-07-25",
+    "paivamaara": "2025-07-24",
     "esiintymiset": [
       // Väinö Stage
       {
@@ -189,7 +189,7 @@ const kuopioRockData = [
   },
   {
     "paiva": "Lauantai",
-    "paivamaara": "2025-07-26",
+    "paivamaara": "2025-07-25",
     "esiintymiset": [
       // Väinö Stage
       {
