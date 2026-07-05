@@ -117,7 +117,7 @@ const kuopioRockData = [
         "artisti": "Woundstripe",
         "lava": "Väinö Stage",
         "aika_alku": "19:15",
-        "aika_loppu": "19:55"
+        "aika_loppu": "19:50"
       },
       {
         "artisti": "SKYB – ysäriltä ja takaisin",
