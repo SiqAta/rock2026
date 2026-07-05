@@ -149,7 +149,7 @@ const kuopioRockData = [
         "artisti": "Wasp",
         "lava": "Stadion lava I",
         "aika_alku": "23:00",
-        "aika_loppu": "00:00"  // 1.5 tuntia, viimeinen lava 1 esiintyjä
+        "aika_loppu": "00:30"  // 1.5 tuntia, viimeinen lava 1 esiintyjä
       },
 
       // Stadion lava II
