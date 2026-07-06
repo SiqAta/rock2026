@@ -25,7 +25,7 @@ const kuopioRockData = [
 
       // Stadion lava II
       {
-        "artisti": "Jonne Tervomaa",
+        "artisti": "Jonna Tervomaa",
         "lava": "Stadion lava II",
         "aika_alku": "17:15",
         "aika_loppu": "18:15"
@@ -146,7 +146,7 @@ const kuopioRockData = [
         "aika_loppu": "21:30"
       },
       {
-        "artisti": "Wasp",
+        "artisti": "W.A.S.P.",
         "lava": "Stadion lava I",
         "aika_alku": "23:00",
         "aika_loppu": "00:30"  // 1.5 tuntia, viimeinen lava 1 esiintyjä
@@ -263,7 +263,7 @@ const kuopioRockData = [
         "aika_loppu": "20:45"
       },
       {
-        "artisti": "Negativa",
+        "artisti": "Negative",
         "lava": "Stadion lava II",
         "aika_alku": "22:15",
         "aika_loppu": "23:15"
