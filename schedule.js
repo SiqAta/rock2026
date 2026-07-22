@@ -128,48 +128,54 @@ const kuopioRockData = [
 
       // Stadion lava 1
       {
-        "artisti": "Hokka",
-        "lava": "Stadion lava I",
-        "aika_alku": "16:00",
-        "aika_loppu": "16:45"
-      },
-      {
-        "artisti": "Tarot",
-        "lava": "Stadion lava I",
-        "aika_alku": "18:00",
-        "aika_loppu": "19:00"
-      },
-      {
-        "artisti": "Turmion Kätilöt",
-        "lava": "Stadion lava I",
-        "aika_alku": "20:30",
-        "aika_loppu": "21:30"
-      },
-      {
-        "artisti": "W.A.S.P.",
-        "lava": "Stadion lava I",
-        "aika_alku": "23:00",
-        "aika_loppu": "00:30"  // 1.5 tuntia, viimeinen lava 1 esiintyjä
-      },
-
-      // Stadion lava II
-      {
         "artisti": "Viivi",
-        "lava": "Stadion lava II",
+        "lava": "Stadion lava I",
         "aika_alku": "17:00",
         "aika_loppu": "17:45"
       },
       {
-        "artisti": "Maija Vilkkumaa",
-        "lava": "Stadion lava II",
+        "artisti": "Tarot",
+        "lava": "Stadion lava I",
         "aika_alku": "19:15",
         "aika_loppu": "20:15"
       },
       {
-        "artisti": "Lordi",
-        "lava": "Stadion lava II",
+        "artisti": "Turmion Kätilöt",
+        "lava": "Stadion lava I",
         "aika_alku": "21:45",
         "aika_loppu": "22:45"
+      },
+      {
+        "artisti": "Nylon Beat",
+        "lava": "Stadion lava I",
+        "aika_alku": "23:59",
+        "aika_loppu": "01:00"  // 1.5 tuntia, viimeinen lava 1 esiintyjä
+      },
+
+      // Stadion lava II
+      {
+        "artisti": "Hokka",
+        "lava": "Stadion lava II",
+        "aika_alku": "16:00",
+        "aika_loppu": "16:45"
+      },
+      {
+        "artisti": "Maija Vilkkumaa",
+        "lava": "Stadion lava II",
+        "aika_alku": "18:00",
+        "aika_loppu": "19:00"
+      },
+      {
+        "artisti": "Lordi",
+        "lava": "Stadion lava II",
+        "aika_alku": "20:30",
+        "aika_loppu": "21:30"
+      },
+       {
+        "artisti": "H.E.A.T.",
+        "lava": "Stadion lava II",
+        "aika_alku": "23:00",
+        "aika_loppu": "23:45"
       },
 
       // Savonia Stage
